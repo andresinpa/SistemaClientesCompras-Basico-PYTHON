@@ -1,1 +1,0 @@
-# SistemaClientesCompras-Basico-PYTHON
